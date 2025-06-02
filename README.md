@@ -18,10 +18,9 @@ Welcome to **CM10**, a dynamic, animated personal portfolio developed by **Chint
 ## 🔧 Technologies Used
 
 - HTML5
-- Tailwind CSS
+- CSS
 - JavaScript
 - GSAP (GreenSock Animation Platform)
-- Three.js (for potential 3D enhancements)
 - Figma (for UI design previews)
 
 ## 🧠 About Me
