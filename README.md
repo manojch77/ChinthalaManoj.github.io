@@ -28,9 +28,11 @@ Welcome to **CM10**, a dynamic, animated personal portfolio developed by **Chint
 Hi, I'm **Manoj**, an IT graduate passionate about crafting engaging UI/UX experiences. I'm proficient in:
 
 - HTML, CSS, JavaScript
+- Figma
 - Firebase
 - Jenkins
 - WordPress
+- Canva
 - Communication & Teamwork
 
 ## 📬 Contact Me
