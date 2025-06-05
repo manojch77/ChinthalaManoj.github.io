@@ -13,7 +13,6 @@ Welcome to **CM10**, a dynamic, animated personal portfolio developed by **Chint
   - About Me with skills & tech tags
   - Project Showcase with flip cards and Figma previews
   - Contact Information & Social Media Links
-- 🎮 **GSAP & Three.js**: For smooth animations and 3D visual effects.
 
 ## 🔧 Technologies Used
 
