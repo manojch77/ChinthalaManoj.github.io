@@ -7,7 +7,7 @@ Welcome to **CM10**, a dynamic, animated personal portfolio developed by **Chint
 
 - ✨ **Inspired Design**: Stylish themed interaction to explore About, Projects, and Contact sections.
 - 🎬 **Animated Intro Video**: Custom intro animation with galaxy video background for immersive presentation.
-- 📱 **Responsive Design**: Fully responsive layout using Tailwind CSS.
+- 📱 **Responsive Design**: Fully responsive layout using CSS.
 - 🧩 **Sections Included**:
   - Hero Section with Name & Title
   - About Me with skills & tech tags
